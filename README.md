@@ -1,6 +1,6 @@
 # Sms Gratis
 ```
-Tools ini dibuat untuk membantu seseorang
+Tools ini dibuat untuk membantu kalian
 yg ingin mengirimkan sms secara gratis
 tanpa pulsa & bisa untuk all operator,
 untuk seluruh wilayah di Indonesia !
